@@ -10,6 +10,6 @@ BOT_TOKEN = getenv("BOT_TOKEN", "8235842848:AAHWduszLN8fTgmKAYGO9xFBx2MchguLmq8"
 OWNER_ID = int(getenv("OWNER_ID", "8447127606"))
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://heistteam1:heistteam1@cluster0.24oegbu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 MUST_JOIN = getenv("MUST_JOIN", "Heist_x_Team")
-START_IMG = getenv("START_IMG", "https://files.catbox.moe/520y6h.jpg")
+START_IMG = getenv("START_IMG", "https://graph.org/file/9d10f07aa93292eee7376-18dac639de546c00ab.jpg")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "Heist_Bots")
 UPDATE_CHANNEL = getenv("UPDATE_CHANNEL", "Heist_x_Team")
