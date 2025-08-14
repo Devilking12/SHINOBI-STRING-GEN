@@ -17,7 +17,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringSesssionGeneratorRobot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](http://t.me/HB_String_Session_Bot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
